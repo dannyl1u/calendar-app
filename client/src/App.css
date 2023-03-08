@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.react-calendar__tile {
+  height: 160px;
+}
